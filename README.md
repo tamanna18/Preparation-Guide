@@ -1,4 +1,4 @@
-# Interview-preparation-
+# Interview-preparation
 https://medium.com/tech-life-fun/python3-cheatsheet-continuously-updated-66d652115549
 
 best python Implementation: https://github.com/aadishgoel2013/Must-Do-Coding-Questions https://github.com/aadishgoel2013/Must-Do-Coding-Questions https://github.com/aadishgoel2013/Algos-with-Python
